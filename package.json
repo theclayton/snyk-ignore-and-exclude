@@ -1,0 +1,19 @@
+{
+  "name": "snyk-ignore-and-exclude",
+  "version": "1.0.0",
+  "description": "Generates Snyk policy files that ignore and exclude all your Snyk vulnerabilities",
+  "main": "ignoreIaC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theclayton/snyk-ignore-and-exclude.git"
+  },
+  "author": "Clayton Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theclayton/snyk-ignore-and-exclude/issues"
+  },
+  "homepage": "https://github.com/theclayton/snyk-ignore-and-exclude#readme"
+}
